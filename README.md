@@ -42,4 +42,4 @@ please install the requirements.txt from the folder<br>
 Zip the code using the following command:<br>
 ***zip -r database_intializer_lambda.zip .<br>***
 
-Deploy manually, s3 or using CLI.
+Deploy/Push the zip file manually, s3 or using CLI.
