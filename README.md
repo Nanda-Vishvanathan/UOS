@@ -24,22 +24,22 @@ As part of task 1, this project contains the code for an AWS Lambda function tha
 **Code Use**
 
 Clone the code:<br>
-***git clone https://github.com/Nanda-Vishvanathan/uosheffield-database-initializer-lambda.git*<br>***
+***git clone https://github.com/Nanda-Vishvanathan/uosheffield-database-initializer-lambda.git<br>***
 
 Create a new branch<br>
-***git checkout -b <branch_name>*<br>***
+***git checkout -b <branch_name><br>***
 
 Make the changes & push to the repo.<br>
-*git add .*<br>
-*git commit -m "Description of changes"*<br>
-*git push origin <branch_name>*<br>
+***git add .<br>***
+***git commit -m "Description of changes"<br>***
+***git push origin <branch_name><br>***
 
 To deploy please, follow the steps below:
 
 please install the requirements.txt from the folder<br>
-*pip install -r requirements.txt -t .*
+***pip install -r requirements.txt -t .<br>***
 
 Zip the code using the following command:<br>
-*zip -r database_intializer_lambda.zip .*
+***zip -r database_intializer_lambda.zip .<br>***
 
 Deploy it using manually, s3 or using CLI.
